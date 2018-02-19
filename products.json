@@ -1,0 +1,124 @@
+{
+	"products": [
+	{
+		"id": 0,
+		"name": "cherry turtleneck",
+		"price": "$36.00",
+		"image": "https://images.pexels.com/photos/709808/pexels-photo-709808.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+		"description": "I am convinced that there can be luxury in simplicity. Jeans represent democracy in fashion. I like the body. I like to design everything to do with the body. I didn't consider myself a fashion designer at all at the time of punk. I was just using fashion as a way to express my resistance and to be rebellious. I came from the country, and by the time I got to London, I considered myself to be very stupid. It was my ambition to understand the world I live in. Doing collections, doing fashion is like a non-stop dialogue.",
+		"sizes": ["x-small","small", "medium", "large"]
+	},
+	{
+		"id": 1,
+		"name": "cornflower cardigan",
+		"price": "$43.00",
+		"image": "https://images.pexels.com/photos/709789/pexels-photo-709789.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+		"description": "We have got to change our ethics and our financial system and our whole way of understanding the world. It has to be a world in which people live rather than die; a sustainable world. It could be great. Design is a constant challenge to balance comfort with luxe, the practical with the desirable. Doing collections, doing fashion is like a non-stop dialogue. The important thing is to take your time and not get stressed. I adore the challenge of creating truly modern clothes, where a woman's personality and sense of self are revealed. I want people to see the dress, but focus on the woman.",
+		"sizes": ["x-small","small", "medium", "large"]
+	},
+	{
+		"id": 2,
+		"name": "army tshirt",
+		"price": "$43.00",
+		"image": "https://images.pexels.com/photos/698875/pexels-photo-698875.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "Men don't want another man to look at their woman because they don't know how to handle it. I truly believe that philanthropy and commerce can work together. I never like to think that I design for a particular person. I design for the woman I wanted to be, the woman I used to be, and - to some degree - the woman I'm still a little piece of. Fashion fosters cliches of beauty, but I want to tear them apart. It pains me physically to see a woman victimized, rendered pathetic, by fashion.",
+		"sizes": ["x-small","small", "medium", "large"]
+	},
+	{
+		"id": 3,
+		"name": "party tee",
+		"price": "$22.00",
+		"image": "https://images.pexels.com/photos/704977/pexels-photo-704977.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "I've treated the waistcoat as if it were a corset, so that it becomes the first layer in the process of putting clothes on the body. There is constant motion between layering and revealing. I love my beauty. It's not my fault. Doing collections, doing fashion is like a non-stop dialogue. Fashion moves so quickly that, unless you have a strong point of view, you can lose integrity. Fashion is a very stressful place to work because of the demands of doing the shows - no one expects a writer to produce two books a year on the dot - but it's also a very toxic place to work.",
+		"sizes": ["x-small","small", "medium", "large"]
+	},
+	{
+		"id": 4,
+		"name": "stonewash jeans",
+		"price": "$59.00",
+		"image": "https://images.pexels.com/photos/709805/pexels-photo-709805.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "It's useless to send models out on the runway to cry. My aim is to make the poor look rich and the rich look poor. A woman has the age she deserves. Design and style should work toward making you look good and feel good without a lot of effort so you can get on with the things that matter. I wanted to dress the woman who lives and works, not the woman in a painting.",
+		"sizes": ["0", "2", "4", "6", "8"]
+	},
+	{
+		"id": 5,
+		"name": "whitesmoke knit hat",
+		"price": "$18.00",
+		"image": "https://images.pexels.com/photos/735308/pexels-photo-735308.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "It is difficult to talk about fashion in the abstract, without a human body before my eyes, without drawings, without a choice of fabric - without a practical or visual reality. I'm a fashion designer and people think, what do I know? I am convinced that there can be luxury in simplicity. The only way to do something in depth is to work hard. Fashion never stops. There is always the new project, the new opportunity.",
+		"sizes": ["one size"]
+	},
+	{
+		"id": 6,
+		"name": "rosewhite slip",
+		"price": "$28.00",
+		"image": "https://images.pexels.com/photos/709791/pexels-photo-709791.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "I have an obsession with details and pattern. You're only as good as your last collection, which is an enormous pressure. I would like the people that buy my clothes to understand that for me it's one small piece of art. I remember walking the dog one day, I saw a car full of teenage girls, and one of them rolled down the window and yelled, 'Marc Jacobs!' in a French accent. Doing collections, doing fashion is like a non-stop dialogue.",
+		"sizes": ["small", "medium", "large"]
+	},
+	{
+		"id": 7,
+		"name": "classic button down",
+		"price": "$32.00",
+		"image": "https://images.pexels.com/photos/709799/pexels-photo-709799.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "I love women's fashion, but women don't need me as much as men do. It's the men who have nothing to wear. I would like to be a one-man multinational fashion phenomenon. It's a philosophy of life. A practice. If you do this, something will change, what will change is that you will change, your life will change, and if you can change you, you can perhaps change the world. Clothes can transform your mood and confidence. Give me time and I'll give you a revolution.",
+		"sizes": ["x-small", "small", "medium", "large"]
+	},
+	{
+		"id": 8,
+		"name": "gold dress",
+		"price": "$43.00",
+		"image": "https://images.pexels.com/photos/698862/pexels-photo-698862.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "You can hide so much behind theatrics, and I don't need to do that any more. I would like the people that buy my clothes to understand that for me it's one small piece of art. What I hate is nasty, ugly people. Today, I'm very happy about myself, because I realized my dreams. I learned how to understand what people want. I try as much as possible to give you a great basic product and what comes out, I feel, is really amazing.",
+		"sizes": ["small", "medium", "large"]
+	},
+	{
+		"id": 9,
+		"name": "grey comfy sweater",
+		"price": "$28.00",
+		"image": "https://images.pexels.com/photos/709802/pexels-photo-709802.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "It is important to be chic. Everything I do is a matter of heart, body and soul. Dressing up. People just don't do it anymore. We have to change that. The important thing is to take your time and not get stressed. Fashion is about dressing according to what's fashionable. Style is more about being yourself.",
+		"sizes": ["small", "medium", "large"]
+	},
+	{
+		"id": 10,
+		"name": "bf jeans",
+		"price": "$54.00",
+		"image": "https://images.pexels.com/photos/709812/pexels-photo-709812.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "We have got to change our ethics and our financial system and our whole way of understanding the world. It has to be a world in which people live rather than die; a sustainable world. It could be great. There are only three things I can do - make a dress, decorate a house, and entertain people. I have my favourite fashion decade, yes, yes, yes: '60s. It was a sort of little revolution; the clothes were amazing but not too exaggerated. When I was young, I lived like an old woman, and when I got old, I had to live like a young person. I don't care about money. I really don't care. I just want to do what I do.",
+		"sizes": ["2", "4", "6", "8"]
+	},
+	{
+		"id": 11,
+		"name": "relaxed tee",
+		"price": "$18.00",
+		"image": "https://images.pexels.com/photos/709867/pexels-photo-709867.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "My learning process is by eye alone; it's not at all scientific. Fashion is not something that exists in dresses only. Fashion is in the sky, in the street, fashion has to do with ideas, the way we live, what is happening. I would like to be a one-man multinational fashion phenomenon. I am like a freight train. Working on the details, twisting them and playing with them over the years, but always staying on the same track. Age is something only in your head or a stereotype. Age means nothing when you are passionate about something.",
+		"sizes": ["x-small", "small", "medium", "large"]
+	},
+	{
+		"id": 12,
+		"name": "jean jacket",
+		"price": "$42.00",
+		"image": "https://images.pexels.com/photos/789812/pexels-photo-789812.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "I remember walking the dog one day, I saw a car full of teenage girls, and one of them rolled down the window and yelled, 'Marc Jacobs!' in a French accent. It pains me physically to see a woman victimized, rendered pathetic, by fashion. I have my favourite fashion decade, yes, yes, yes: '60s. It was a sort of little revolution; the clothes were amazing but not too exaggerated. My shows are about the complete woman who swallows it all. It's a question of survival. An evening dress that reveals a woman's ankles while walking is the most disgusting thing I have ever seen.",
+		"sizes": ["small", "medium", "large", "x-large"]
+	},
+	{
+		"id": 13,
+		"name": "bg wrap shirt",
+		"price": "$24.00",
+		"image": "https://images.pexels.com/photos/789800/pexels-photo-789800.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "When I was young, I lived like an old woman, and when I got old, I had to live like a young person. I'm used to always deciding everything myself. It's a blessing, but also a terrible defect. Attention to detail is of utmost importance when you want to look good. Brides today are increasingly sensitive to the tastes, feelings and finances of their attendants. Money doesn't buy elegance. You can take an inexpensive sheath, add a pretty scarf, gray shoes, and a wonderful bag, and it will always be elegant.",
+		"sizes": ["x-small", "small", "medium", "large"]
+	},
+	{
+		"id": 14,
+		"name": "faux leather jacket",
+		"price": "$66.00",
+		"image": "https://images.pexels.com/photos/789793/pexels-photo-789793.jpeg?h=350&auto=compress&cs=tinysrgb",
+		"description": "Everything I do is a matter of heart, body and soul. What you wear is how you present yourself to the world, especially today when human contacts go so fast. Fashion is instant language. I have my favourite fashion decade, yes, yes, yes: '60s. It was a sort of little revolution; the clothes were amazing but not too exaggerated. Women are women, and hurray for that. I love things that age well - things that don't date, that stand the test of time and that become living examples of the absolute best.",
+		"sizes": ["small", "medium", "large"]
+	}
+]
+}
